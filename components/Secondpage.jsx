@@ -47,7 +47,6 @@ const Secondpage = () => {
             <div>
               lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem
               ipsum lorem ipsum lorem ipsum
-              
             </div>
           </div>
         </div>
